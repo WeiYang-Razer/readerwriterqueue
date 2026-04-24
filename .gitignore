@@ -24,3 +24,10 @@ benchmarks/benchmarks
 tests/stabtest/stabtest
 tests/unittests/unittests
 
+
+# wyvrnpm-generated — do not commit
+/build/
+/wyvrn_internal/
+/wyvrn.lock
+/CMakePresets.json
+/CMakeUserPresets.json
