@@ -1,0 +1,19 @@
+{
+  "name": "readerwriterqueue",
+  "version": "1.0.7.0",
+  "schemaVersion": 2,
+  "kind": "HeaderOnlyLib",
+  "description": "TODO: one-line description of readerwriterqueue",
+  "dependencies": {},
+  "build": {
+    "system": "cmake",
+    "configs": [
+      "Debug",
+      "Release",
+      "RelWithDebInfo",
+      "MinSizeRel"
+    ],
+    "configure": [],
+    "installDir": "install"
+  }
+}
